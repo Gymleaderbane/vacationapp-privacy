@@ -1,0 +1,31 @@
+Privacy Policy
+Effective Date: 4/2/2025
+1. Introduction
+Welcome to VacationApp ("the App"). Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect your personal data when you use the App.
+2. Information We Collect
+When you use our App, we may collect the following types of information:
+•	Account Information: When you register, we collect your username and password (stored securely using encryption methods).
+•	Vacation Data: Users may enter details about vacations and excursions, which are stored locally on the device.
+•	Automatically Collected Data: We may collect anonymous app usage statistics to improve functionality.
+3. How We Use Your Information
+We use the collected data for the following purposes:
+•	To authenticate and manage user accounts.
+•	To store and retrieve vacation details for user convenience.
+•	To improve the App based on user interactions.
+4. Data Storage and Security
+•	All user data, including vacation details, is stored locally on the device in a SQLite database.
+•	Passwords are stored securely using hashing techniques.
+•	We do not share or sell user data to third parties.
+•	If the App connects to a cloud service in the future, users will be notified about any changes in data storage policies.
+5. Account Deletion
+Users may delete their account and associated data by using the "Delete Account" feature on the login screen. Once deleted, this data cannot be recovered.
+6. Third-Party Services
+Currently, the App does not integrate with third-party services that collect user data. If any such integrations occur in the future, this policy will be updated accordingly.
+7. User Rights
+•	You have the right to delete your account and associated data at any time.
+•	You can contact us for any questions regarding your data and privacy rights.
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Users will be notified of significant changes within the App.
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at hammerholdtales@gmail.com.
+
