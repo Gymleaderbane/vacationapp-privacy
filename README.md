@@ -1,5 +1,7 @@
 VacationApp - Account Deletion Guide
+
 How to Delete Your Account
+
 If you wish to delete your account and all associated data from VacationApp, follow these steps:
 
 Open the VacationApp on your device.
